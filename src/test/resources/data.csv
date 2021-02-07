@@ -1,0 +1,4 @@
+ bonus under limit',100060,true,30,
+ bonus over limit',100000060,true,500
+ bonus over limit',100000060,false,500
+ bonus over limit',100000060,false,500
